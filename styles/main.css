@@ -93,4 +93,10 @@ footer {
 
 footer p {
   font-size: 14px;
+}
+
+.img {
+  display: inline-flex;
+  flex-direction: column;
+  border-radius: 50px;
 }/*# sourceMappingURL=main.css.map */
